@@ -1,2 +1,2 @@
 # leetcode-solutions
-Решение задач из Leetcode
+Репозиторий с моими решениями задач из Leetcode
